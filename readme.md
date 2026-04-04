@@ -27,29 +27,56 @@
 
 ## About Me
 
-<img align="right" width="320" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"/>
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="380"/>
+</div>
 
-```python
-class Mukeshram:
-    name       = "Mukeshram S"
-    role       = "Data Scientist & ML Engineer"
-    location   = "India"
-    portfolio  = "mukeshram.pages.dev"
+<br/>
 
-    languages  = ["Python", "SQL", "R", "C++", "JavaScript"]
-    ml_stack   = ["Scikit-learn", "PyTorch", "TensorFlow",
-                  "XGBoost", "LightGBM", "statsmodels"]
-    viz_tools  = ["Plotly", "Matplotlib", "Seaborn", "Power BI"]
-    databases  = ["MySQL", "MongoDB"]
-    cloud      = ["GCP", "Snowflake"]
-    deployment = ["FastAPI", "Streamlit", "Git"]
+<table border="0" align="center">
+<tr>
+<td width="50%" valign="top">
 
-    currently  = "Building intelligent data pipelines"
-    goal       = "Make every dataset tell its story"
-    fun_fact   = "I debug with coffee and intuition"
-```
+### Who Am I?
 
-<br clear="right"/>
+> **Mukeshram S** — a Data Scientist & ML Engineer from India who turns messy datasets into meaningful decisions.
+
+I specialize in building **end-to-end ML pipelines**, crafting **intelligent models**, and deploying them to production. My work sits at the intersection of statistics, software engineering, and storytelling with data.
+
+- **Currently:** Building intelligent data pipelines
+- **Goal:** Make every dataset tell its story
+- **Fun fact:** I once found a bug just by staring at the data long enough
+
+</td>
+<td width="50%" valign="top">
+
+### At a Glance
+
+| | |
+|---|---|
+| **Name** | Mukeshram S |
+| **Role** | Data Scientist & ML Engineer |
+| **Location** | India |
+| **Portfolio** | [mukeshram.pages.dev](https://mukeshram.pages.dev) |
+| **Languages** | Python · SQL · R · C++ · JS |
+| **ML Stack** | Scikit-learn · PyTorch · TensorFlow · XGBoost |
+| **Viz Tools** | Plotly · Matplotlib · Seaborn · Power BI |
+| **Databases** | MySQL · MongoDB |
+| **Cloud** | GCP · Snowflake |
+| **Deploy** | FastAPI · Streamlit · Git |
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+
+![](https://img.shields.io/badge/Focus-Machine_Learning-29B5E8?style=flat-square&labelColor=0d1117)
+![](https://img.shields.io/badge/Passion-Data_Storytelling-29B5E8?style=flat-square&labelColor=0d1117)
+![](https://img.shields.io/badge/Mindset-Always_Learning-29B5E8?style=flat-square&labelColor=0d1117)
+![](https://img.shields.io/badge/Fuel-Coffee_%E2%98%95-29B5E8?style=flat-square&labelColor=0d1117)
+
+</div>
 
 ---
 

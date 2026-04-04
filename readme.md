@@ -178,16 +178,17 @@
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Mukeshram-07&show_icons=true&theme=tokyonight&hide_border=true&title_color=29B5E8&icon_color=29B5E8&text_color=ffffff&bg_color=0d1117&rank_icon=github&custom_title=Mukeshram's+GitHub+Stats&cache_seconds=1800"/>
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mukeshram-07&layout=compact&theme=tokyonight&hide_border=true&title_color=29B5E8&text_color=ffffff&bg_color=0d1117&custom_title=Most+Used+Languages&cache_seconds=1800"/>
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mukeshram-07&theme=tokyonight"/>
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Mukeshram-07&theme=tokyonight"/>
+
+<br/><br/>
+
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Mukeshram-07&theme=tokyonight"/>
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Mukeshram-07&theme=tokyonight&utcOffset=5.5"/>
 
 <br/><br/>
 
 <img width="70%" src="https://streak-stats.demolab.com?user=Mukeshram-07&theme=tokyonight&hide_border=true&ring=29B5E8&fire=29B5E8&currStreakLabel=29B5E8&background=0d1117&sideLabels=ffffff&dates=888888"/>
-
-<br/><br/>
-
-<img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=Mukeshram-07&bg_color=0d1117&color=29B5E8&line=29B5E8&point=ffffff&area=true&hide_border=true&custom_title=Contribution+Activity"/>
 
 </div>
 

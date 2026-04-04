@@ -79,57 +79,58 @@ class Mukeshram:
 
 ### Programming Languages
 
-<img src="https://skillicons.dev/icons?i=python,r,cpp,js,mysql&theme=dark" height="80"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="80" height="80" />&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/r/r-original.svg" width="80" height="80" />&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" width="80" height="80" />&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="80" height="80" />&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="80" height="80" />
 
 <br/><br/>
 
 ### Data Science & Machine Learning
 
-<img src="https://skillicons.dev/icons?i=sklearn,pytorch,tensorflow,pandas,numpy&theme=dark" height="80"/>
-
-<br/><br/>
-
-<img src="https://skillicons.dev/icons?i=huggingface&theme=dark" height="80"/>
-&nbsp;
-<img src="https://go-skill-icons.vercel.app/api/icons?i=xgboost&theme=dark" height="80"/>
-&nbsp;
-<img src="https://go-skill-icons.vercel.app/api/icons?i=lightgbm&theme=dark" height="80"/>
-&nbsp;
-<img src="https://go-skill-icons.vercel.app/api/icons?i=scipy&theme=dark" height="80"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg" width="80" height="80" />&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytorch/pytorch-original.svg" width="80" height="80" />&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tensorflow/tensorflow-original.svg" width="80" height="80" />&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" width="80" height="80" />&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" width="80" height="80" />
 
 <br/><br/>
 
 ### Data Visualization
 
-<img src="https://skillicons.dev/icons?i=matplotlib,plotly&theme=dark" height="80"/>
-&nbsp;
-<img src="https://go-skill-icons.vercel.app/api/icons?i=powerbi&theme=dark" height="80"/>
-&nbsp;
-<img src="https://go-skill-icons.vercel.app/api/icons?i=tableau&theme=dark" height="80"/>
-&nbsp;
-<img src="https://go-skill-icons.vercel.app/api/icons?i=seaborn&theme=dark" height="80"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-original.svg" width="80" height="80" />&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/plotly/plotly-original.svg" width="80" height="80" />&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/grafana/grafana-original.svg" width="80" height="80" />&nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/microsoft/PowerBI-Icons/main/SVG/Power-BI.svg" width="80" height="80" />
 
 <br/><br/>
 
 ### Databases
 
-<img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres&theme=dark" height="80"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="80" height="80" />&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" width="80" height="80" />&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" width="80" height="80" />
 
 <br/><br/>
 
 ### Tools & Deployment
 
-<img src="https://skillicons.dev/icons?i=fastapi,streamlit,git,github,vscode,docker,jupyter&theme=dark" height="80"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg" width="80" height="80" />&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/streamlit/streamlit-original.svg" width="80" height="80" />&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original.svg" width="80" height="80" />&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="80" height="80" />&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="80" height="80" />&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="80" height="80" />&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" width="80" height="80" />
 
 <br/><br/>
 
 ### Cloud & Data Warehouse
 
-<img src="https://skillicons.dev/icons?i=gcp&theme=dark" height="80"/>
-&nbsp;
-<img src="https://go-skill-icons.vercel.app/api/icons?i=snowflake&theme=dark" height="80"/>
-&nbsp;
-<img src="https://go-skill-icons.vercel.app/api/icons?i=bigquery&theme=dark" height="80"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecloud/googlecloud-original.svg" width="80" height="80" />&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/snowflake/snowflake-original.svg" width="80" height="80" />&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg" width="80" height="80" />
 
 </div>
 

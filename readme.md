@@ -202,21 +202,77 @@
 
 <br/><br/>
 
-<table border="0" cellpadding="8">
+<!-- WORKFLOW DIAGRAM — Professional flat badge style with clean directional arrows -->
+
+<table border="0" cellspacing="0" cellpadding="0" align="center">
+  <tr>
+    <!-- Step 01 -->
+    <td align="center">
+      <img src="https://img.shields.io/badge/01%20%E2%94%82%20RAW%20DATA-Ingest%20%26%20Collect-29B5E8?style=for-the-badge&labelColor=0d1117"/>
+    </td>
+    <!-- Arrow right -->
+    <td align="center" style="padding: 0 6px;">
+      <img src="https://img.shields.io/badge/%20-%20%E2%9E%9C-%230d1117?style=for-the-badge&labelColor=0d1117&color=29B5E8"/>
+    </td>
+    <!-- Step 02 -->
+    <td align="center">
+      <img src="https://img.shields.io/badge/02%20%E2%94%82%20CLEAN%20%26%20WRANGLE-Transform%20%26%20Validate-7B2FBE?style=for-the-badge&labelColor=0d1117"/>
+    </td>
+    <!-- Arrow right -->
+    <td align="center" style="padding: 0 6px;">
+      <img src="https://img.shields.io/badge/%20-%20%E2%9E%9C-%230d1117?style=for-the-badge&labelColor=0d1117&color=7B2FBE"/>
+    </td>
+    <!-- Step 03 -->
+    <td align="center">
+      <img src="https://img.shields.io/badge/03%20%E2%94%82%20EDA%20%26%20VISUALIZE-Explore%20%26%20Discover-1D9E75?style=for-the-badge&labelColor=0d1117"/>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="5" align="center" style="padding: 4px 0;">
+      <img src="https://img.shields.io/badge/%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%E2%86%93-0d1117?style=flat-square&labelColor=0d1117"/>
+    </td>
+  </tr>
+  <tr>
+    <!-- Step 06 -->
+    <td align="center">
+      <img src="https://img.shields.io/badge/06%20%E2%94%82%20INSIGHTS-Communicate%20%26%20Decide-29B5E8?style=for-the-badge&labelColor=0d1117"/>
+    </td>
+    <!-- Arrow left -->
+    <td align="center" style="padding: 0 6px;">
+      <img src="https://img.shields.io/badge/%20-%20%E2%9C%97-%230d1117?style=for-the-badge&labelColor=0d1117&color=185FA5"/>
+    </td>
+    <!-- Step 05 -->
+    <td align="center">
+      <img src="https://img.shields.io/badge/05%20%E2%94%82%20DEPLOY%20%26%20MONITOR-Serve%20%26%20Retrain-D85A30?style=for-the-badge&labelColor=0d1117"/>
+    </td>
+    <!-- Arrow left -->
+    <td align="center" style="padding: 0 6px;">
+      <img src="https://img.shields.io/badge/%20-%20%E2%9C%97-%230d1117?style=for-the-badge&labelColor=0d1117&color=7B2FBE"/>
+    </td>
+    <!-- Step 04 -->
+    <td align="center">
+      <img src="https://img.shields.io/badge/04%20%E2%94%82%20MODEL%20%26%20EVALUATE-Train%20%26%20Tune-7B2FBE?style=for-the-badge&labelColor=0d1117"/>
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+<!-- Step labels row -->
+<table border="0" cellspacing="0" cellpadding="4" align="center">
 <tr>
-<td align="center"><img src="https://img.shields.io/badge/01-Raw%20Data-29B5E8?style=for-the-badge&labelColor=0d1117"/></td>
-<td align="center"><b>➜</b></td>
-<td align="center"><img src="https://img.shields.io/badge/02-Clean%20%26%20Wrangle-blueviolet?style=for-the-badge&labelColor=0d1117"/></td>
-<td align="center"><b>➜</b></td>
-<td align="center"><img src="https://img.shields.io/badge/03-EDA%20%26%20Visualize-00C853?style=for-the-badge&labelColor=0d1117"/></td>
+<td align="center"><img src="https://img.shields.io/badge/Ingest-Sources%20%26%20APIs-0d1117?style=flat-square&labelColor=29B5E8&color=0d1117"/></td>
+<td width="20"></td>
+<td align="center"><img src="https://img.shields.io/badge/Process-Impute%20%26%20Encode-0d1117?style=flat-square&labelColor=7B2FBE&color=0d1117"/></td>
+<td width="20"></td>
+<td align="center"><img src="https://img.shields.io/badge/Explore-Charts%20%26%20Stats-0d1117?style=flat-square&labelColor=1D9E75&color=0d1117"/></td>
 </tr>
-<tr><td colspan="5" align="center"><b>↓</b></td></tr>
 <tr>
-<td align="center"><img src="https://img.shields.io/badge/06-Insights-29B5E8?style=for-the-badge&labelColor=0d1117"/></td>
-<td align="center"><b>⬅</b></td>
-<td align="center"><img src="https://img.shields.io/badge/05-Deploy%20%26%20Monitor-FF6B35?style=for-the-badge&labelColor=0d1117"/></td>
-<td align="center"><b>⬅</b></td>
-<td align="center"><img src="https://img.shields.io/badge/04-Model%20%26%20Evaluate-blueviolet?style=for-the-badge&labelColor=0d1117"/></td>
+<td align="center"><img src="https://img.shields.io/badge/Report-Dashboards%20%26%20Docs-0d1117?style=flat-square&labelColor=29B5E8&color=0d1117"/></td>
+<td width="20"></td>
+<td align="center"><img src="https://img.shields.io/badge/Ship-APIs%20%26%20Pipelines-0d1117?style=flat-square&labelColor=D85A30&color=0d1117"/></td>
+<td width="20"></td>
+<td align="center"><img src="https://img.shields.io/badge/Build-XGBoost%20%7C%20PyTorch-0d1117?style=flat-square&labelColor=7B2FBE&color=0d1117"/></td>
 </tr>
 </table>
 

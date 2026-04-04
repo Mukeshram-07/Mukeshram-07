@@ -9,12 +9,11 @@
 
   <p>
     Focused on building data-driven systems that transform raw data into actionable insights.
-    Experienced in machine learning, statistical modeling, and end-to-end analytics workflows.
+    Experienced in machine learning, statistical modeling, and analytics workflows.
   </p>
 
   <p>
-    Strong interest in scalable data pipelines — from data collection and preprocessing
-    to model development, validation, and deployment.
+    Strong interest in scalable data pipelines — from preprocessing to deployment.
   </p>
 
   <p>
@@ -41,21 +40,10 @@
     </a>
   </p>
 
-  <img src="https://komarev.com/ghpvc/?username=Mukeshram-07&style=flat-square&color=blue" alt="Profile views"/>
+  <img src="https://komarev.com/ghpvc/?username=Mukeshram-07&style=flat-square&color=blue" />
 </div>
 
 <br clear="all" />
-
----
-
-## Core Competencies
-
-- Machine Learning & Predictive Modeling  
-- Statistical Analysis & Hypothesis Testing  
-- Data Cleaning & Feature Engineering  
-- Time-Series Analysis & Forecasting  
-- Data Visualization & Storytelling  
-- End-to-End ML Pipeline Development  
 
 ---
 
@@ -75,10 +63,9 @@
 
 ### 📚 Frameworks & Libraries
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=pytorch" />
-  <br/><br/>
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas"/>
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy"/>
+  <br/><br/>
   <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn"/>
 </p>
 
@@ -110,13 +97,13 @@
 
 ---
 
-## Workflow Orientation
+## Workflow
 
-Data Collection → Data Cleaning → Feature Engineering → Model Development → Evaluation → Deployment
+Data Collection → Data Cleaning → Feature Engineering → Model Building → Evaluation → Deployment
 
 ---
 
-## GitHub Metrics
+## GitHub Stats
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=Mukeshram-07&theme=dark&hide_border=true" />
@@ -126,7 +113,7 @@ Data Collection → Data Cleaning → Feature Engineering → Model Development 
 
 ## Current Focus
 
-- Improving model performance and generalization  
-- Solving real-world data problems  
-- Building scalable ML systems  
-- Transitioning into AI engineering and applied research  
+- Machine Learning optimization  
+- Real-world data applications  
+- Scalable ML systems  
+- Transition toward AI Engineering  

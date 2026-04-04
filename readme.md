@@ -125,8 +125,8 @@
 
 <br/>
 <img src="https://skillicons.dev/icons?i=gcp" height="65" title="Google Cloud"/>
-&nbsp;&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/-%E2%9D%84%EF%B8%8F_Snowflake-29B5E8?style=flat-square&logo=snowflake&logoColor=white&labelColor=29B5E8" height="65" title="Snowflake"/>
+<br/><br/>
+<img src="https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white" height="40" title="Snowflake"/>
 <br/><br/>
 
 </td>

@@ -129,7 +129,7 @@ class Mukeshram:
 ### Cloud & Data Warehouse
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecloud/googlecloud-original.svg" width="80" height="80" />&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/snowflake/snowflake-original.svg" width="80" height="80" />&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/snowflake/29B5E8" width="80" height="80" />&nbsp;&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg" width="80" height="80" />
 
 </div>

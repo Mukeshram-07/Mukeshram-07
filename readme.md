@@ -1,8 +1,6 @@
 <img align="center" alt="Banner" src="https://user-images.githubusercontent.com/22107794/139580686-887df369-edb8-4bc8-b607-4fbf6d7e4866.gif"/>
 
-<h1 align="left">
-  Mukeshram S
-</h1>
+<h1 align="left">Mukeshram S</h1>
 
 <h3>Data Science | Machine Learning | Analytics Engineering</h3>
 
@@ -10,12 +8,12 @@
   <img align="right" width="320" src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif" />
 
   <p>
-    I specialize in designing data-driven systems that transform raw data into actionable insights.
-    My work focuses on machine learning, statistical modeling, and scalable analytics workflows.
+    Focused on building data-driven systems that transform raw data into actionable insights.
+    Experienced in machine learning, statistical modeling, and end-to-end analytics workflows.
   </p>
 
   <p>
-    Strong interest in end-to-end data pipelines — from data acquisition and preprocessing
+    Strong interest in scalable data pipelines — from data collection and preprocessing
     to model development, validation, and deployment.
   </p>
 
@@ -35,7 +33,7 @@
     </a>
 
     <a href="https://www.linkedin.com/in/mukeshram-data-scientist">
-      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
     </a>
 
     <a href="https://mukeshram.pages.dev">
@@ -43,7 +41,7 @@
     </a>
   </p>
 
-  <img src="https://komarev.com/ghpvc/?username=Mukeshram-07&style=flat-square&color=blue" alt="Profile Visit"/>
+  <img src="https://komarev.com/ghpvc/?username=Mukeshram-07&style=flat-square&color=blue" alt="Profile views"/>
 </div>
 
 <br clear="all" />
@@ -63,32 +61,58 @@
 
 ## Tech Stack
 
-### Programming Languages
-<img src="https://skillicons.dev/icons?i=python,cpp,r,js" />
+<table>
+<tr>
+<td width="50%">
 
-### Data Science & Machine Learning
-<img src="https://skillicons.dev/icons?i=pytorch" />
-<br/><br/>
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas"/>
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy"/>
-<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn"/>
-<img src="https://img.shields.io/badge/Matplotlib-000000?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Seaborn-000000?style=for-the-badge"/>
+### 💻 Programming Languages
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,cpp,r,js" />
+</p>
 
-### Databases
-<img src="https://skillicons.dev/icons?i=mongodb,mysql" />
+</td>
+<td width="50%">
 
-### Tools & Platforms
-<img src="https://skillicons.dev/icons?i=git,github,gcp,vscode" />
-<br/>
-<img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi"/>
-<img src="https://img.shields.io/badge/Snowflake-56B9EB?style=for-the-badge&logo=snowflake"/>
+### 📚 Frameworks & Libraries
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=pytorch" />
+  <br/><br/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy"/>
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn"/>
+</p>
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### 🗄️ Databases
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql" />
+</p>
+
+</td>
+<td width="50%">
+
+### 🛠️ Tools & Platforms
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,gcp,vscode" />
+  <br/><br/>
+  <img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi"/>
+  <img src="https://img.shields.io/badge/Snowflake-56B9EB?style=for-the-badge&logo=snowflake"/>
+</p>
+
+</td>
+</tr>
+</table>
 
 ---
 
 ## Workflow Orientation
 
-Data Collection → Data Processing → Feature Engineering → Model Development → Evaluation → Deployment
+Data Collection → Data Cleaning → Feature Engineering → Model Development → Evaluation → Deployment
 
 ---
 
@@ -103,6 +127,6 @@ Data Collection → Data Processing → Feature Engineering → Model Developmen
 ## Current Focus
 
 - Improving model performance and generalization  
-- Applying ML to real-world business problems  
-- Building scalable and production-ready data systems  
-- Advancing toward AI engineering and applied research  
+- Solving real-world data problems  
+- Building scalable ML systems  
+- Transitioning into AI engineering and applied research  

@@ -44,14 +44,14 @@
 
 
 ## 🛠️ Skills
+
 <p align="center">
 <table>
 <tr>
 <td width="50%" align="center">
 <h3>💻 Programming Languages</h3>
 
-<img src="https://skillicons.dev/icons?i=python,r,cpp,js" />
-<img src="https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=mysql&logoColor=white&labelColor=4479A1" height="48" />
+<img src="https://skillicons.dev/icons?i=python,r,cpp,js,mysql" />
 <br/><br/>
 
 </td>
@@ -61,11 +61,10 @@
 
 <img src="https://skillicons.dev/icons?i=sklearn,pytorch,tensorflow" />
 <br/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="48" height="48" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="48" height="48" />
-<img src="https://img.shields.io/badge/XGBoost-EC6C00?style=for-the-badge&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA1MCA1MCI+PHRleHQgeT0iNDIiIGZvbnQtc2l6ZT0iNDIiPvCfmYE8L3RleHQ+PC9zdmc+" height="48" />
-<img src="https://img.shields.io/badge/LightGBM-026e00?style=for-the-badge" height="48" />
-<img src="https://img.shields.io/badge/statsmodels-3776AB?style=for-the-badge" height="48" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original-wordmark.svg" width="50" height="50" title="Pandas"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" width="50" height="50" title="NumPy"/>
+<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/xgboost.svg" width="50" height="50" title="XGBoost" style="background:#EC6C00;border-radius:10px;padding:5px"/>
+<img src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/snowflake.svg" width="50" height="50" title="statsmodels"/>
 <br/><br/>
 
 </td>
@@ -74,11 +73,10 @@
 <td width="50%" align="center">
 <h3>📈 Visualization</h3>
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="48" height="48" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/plotly/plotly-original.svg" width="48" height="48" />
-<img src="https://skillicons.dev/icons?i=grafana" />
-<img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge" height="48" />
-<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" height="48" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-original.svg" width="50" height="50" title="Matplotlib"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/plotly/plotly-original.svg" width="50" height="50" title="Plotly"/>
+<img src="https://raw.githubusercontent.com/microsoft/PowerBI-Icons/main/SVG/Power-BI.svg" width="50" height="50" title="Power BI"/>
+<img src="https://seaborn.pydata.org/_images/logo-tall-lightbg.svg" width="50" height="50" title="Seaborn"/>
 <br/><br/>
 
 </td>
@@ -95,9 +93,9 @@
 <td width="50%" align="center">
 <h3>⚙️ Deployment & Tools</h3>
 
-<img src="https://skillicons.dev/icons?i=fastapi,git,github,vscode,postman" />
+<img src="https://skillicons.dev/icons?i=fastapi,git,github" />
 <br/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/streamlit/streamlit-original.svg" width="48" height="48" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/streamlit/streamlit-original.svg" width="50" height="50" title="Streamlit"/>
 <br/><br/>
 
 </td>
@@ -106,7 +104,7 @@
 <h3>☁️ Cloud</h3>
 
 <img src="https://skillicons.dev/icons?i=gcp" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/snowflake/snowflake-original.svg" width="48" height="48" />
+<img src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/snowflake.svg" width="50" height="50" title="Snowflake"/>
 <br/><br/>
 
 </td>

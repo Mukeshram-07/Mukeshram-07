@@ -79,91 +79,61 @@ class Mukeshram:
 
 ### Programming Languages
 
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-&nbsp;
-<img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white"/>
-&nbsp;
-<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
-&nbsp;
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-&nbsp;
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img src="https://skillicons.dev/icons?i=python,r,cpp,js,mysql&theme=dark&perline=5" height="65"/>
 
 <br/><br/>
 
 ### Data Science & Machine Learning
 
-<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
-&nbsp;
-<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
-&nbsp;
-<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
-&nbsp;
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-&nbsp;
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+<img src="https://skillicons.dev/icons?i=sklearn,pytorch,tensorflow&theme=dark&perline=6" height="65"/>
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/XGBoost-EC6C00?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://skillicons.dev/icons?i=pandas,numpy&theme=dark&perline=6" height="65"/>
+&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/XGBoost-EC6C00?style=for-the-badge&logo=python&logoColor=white&labelColor=EC6C00" height="65" style="border-radius:12px"/>
 &nbsp;
-<img src="https://img.shields.io/badge/LightGBM-026e00?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/LightGBM-026e00?style=for-the-badge&logo=python&logoColor=white" height="65" style="border-radius:12px"/>
 &nbsp;
-<img src="https://img.shields.io/badge/statsmodels-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/statsmodels-3776AB?style=for-the-badge&logo=python&logoColor=white" height="65" style="border-radius:12px"/>
 &nbsp;
-<img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
+<img src="https://skillicons.dev/icons?i=huggingface&theme=dark" height="65"/>
 
 <br/><br/>
 
 ### Data Visualization
 
-<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://skillicons.dev/icons?i=matplotlib,plotly&theme=dark" height="65"/>
+&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" height="65"/>
 &nbsp;
-<img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white"/>
+<img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge&logo=python&logoColor=white" height="65"/>
 &nbsp;
-<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
-&nbsp;
-<img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge&logo=python&logoColor=white"/>
-&nbsp;
-<img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white"/>
+<img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" height="65"/>
 
 <br/><br/>
 
 ### Databases
 
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-&nbsp;
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
-&nbsp;
-<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
+<img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres&theme=dark&perline=5" height="65"/>
 
 <br/><br/>
 
 ### Tools & Deployment
 
-<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
-&nbsp;
-<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
-&nbsp;
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-&nbsp;
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-&nbsp;
-<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
-&nbsp;
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-&nbsp;
-<img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
+<img src="https://skillicons.dev/icons?i=fastapi,git,github,vscode,docker,jupyter&theme=dark&perline=6" height="65"/>
+&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=streamlit&theme=dark" height="65"/>
 
 <br/><br/>
 
 ### Cloud & Data Warehouse
 
-<img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white"/>
+<img src="https://skillicons.dev/icons?i=gcp&theme=dark" height="65"/>
+&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white" height="65"/>
 &nbsp;
-<img src="https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white"/>
-&nbsp;
-<img src="https://img.shields.io/badge/BigQuery-669DF6?style=for-the-badge&logo=googlebigquery&logoColor=white"/>
+<img src="https://img.shields.io/badge/BigQuery-669DF6?style=for-the-badge&logo=googlebigquery&logoColor=white" height="65"/>
 
 </div>
 
@@ -182,7 +152,6 @@ class Mukeshram:
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Mukeshram-07&bg_color=0d1117&color=29B5E8&line=29B5E8&point=ffffff&area=true&hide_border=true&custom_title=Contribution+Activity+Graph"/>
 
 </div>
 

@@ -194,6 +194,188 @@
 
 ---
 
+## ☁️ Currently Learning — Cloud for Data Science Roadmap
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:29B5E8&height=3"/>
+
+<br/>
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=16&pause=900&color=29B5E8&center=true&vCenter=true&width=750&height=36&lines=Phase+01+%E2%9C%85+Python+%26+SQL+Foundations+%E2%80%94+100%25+Complete;Phase+02+%E2%9C%85+Classical+ML+%26+Deep+Learning+%E2%80%94+90%25+Done;Phase+03+%E2%9A%A1+Snowflake+%26+Cloud+Warehousing+%E2%80%94+60%25+In+Progress;Phase+04+%E2%9A%A1+GCP+%7C+BigQuery+%7C+Vertex+AI+%E2%80%94+40%25+Active;Phase+05+%F0%9F%94%9C+MLOps+%26+Airflow+Pipelines+%E2%80%94+Planned;Phase+06+%F0%9F%94%9C+LLMOps+%26+Generative+AI+%E2%80%94+Upcoming" alt="Roadmap Ticker" />
+
+<br/><br/>
+
+<!-- PHASE 01 -->
+<table border="0" cellpadding="0" cellspacing="0" width="85%">
+<tr>
+<td width="8%" align="center"><b>01</b></td>
+<td width="3%" align="center">
+<img src="https://img.shields.io/badge/-%E2%94%82-29B5E8?style=flat-square&labelColor=29B5E8"/>
+</td>
+<td width="89%">
+<img src="https://img.shields.io/badge/%E2%9C%85_DONE-Python_%26_SQL_Foundations-29B5E8?style=for-the-badge&labelColor=0d1117&logo=python&logoColor=29B5E8"/>
+<br/>
+<sub>Pandas · NumPy · Complex SQL · Window Functions · Data Wrangling at Scale</sub>
+<br/>
+<img src="https://img.shields.io/badge/Progress-100%25-29B5E8?style=flat-square&labelColor=0d1117"/>
+<img src="https://progress-bar.xyz/100/?scale=100&title=&width=300&color=29B5E8&suffix=%"/>
+</td>
+</tr>
+</table>
+
+<br/>
+
+<!-- PHASE 02 -->
+<table border="0" cellpadding="0" cellspacing="0" width="85%">
+<tr>
+<td width="8%" align="center"><b>02</b></td>
+<td width="3%" align="center">
+<img src="https://img.shields.io/badge/-%E2%94%82-29B5E8?style=flat-square&labelColor=29B5E8"/>
+</td>
+<td width="89%">
+<img src="https://img.shields.io/badge/%E2%9C%85_DONE-Classical_ML_%26_Deep_Learning-3fb950?style=for-the-badge&labelColor=0d1117&logo=pytorch&logoColor=3fb950"/>
+<br/>
+<sub>Scikit-learn · PyTorch · TensorFlow · XGBoost · Model Evaluation · Feature Engineering</sub>
+<br/>
+<img src="https://img.shields.io/badge/Progress-90%25-3fb950?style=flat-square&labelColor=0d1117"/>
+<img src="https://progress-bar.xyz/90/?scale=100&title=&width=300&color=3fb950&suffix=%"/>
+</td>
+</tr>
+</table>
+
+<br/>
+
+<!-- PHASE 03 -->
+<table border="0" cellpadding="0" cellspacing="0" width="85%">
+<tr>
+<td width="8%" align="center"><b>03</b></td>
+<td width="3%" align="center">
+<img src="https://img.shields.io/badge/-%E2%94%82-fbbf24?style=flat-square&labelColor=fbbf24"/>
+</td>
+<td width="89%">
+<img src="https://img.shields.io/badge/%E2%9A%A1_ACTIVE-Snowflake_%26_Cloud_Warehousing-fbbf24?style=for-the-badge&labelColor=0d1117&logo=snowflake&logoColor=29B5E8"/>
+<br/>
+<sub>Snowflake Architecture · Virtual Warehouses · Snowpark for Python · dbt Transformations · Data Modeling</sub>
+<br/>
+<img src="https://img.shields.io/badge/Progress-60%25-fbbf24?style=flat-square&labelColor=0d1117"/>
+<img src="https://progress-bar.xyz/60/?scale=100&title=&width=300&color=fbbf24&suffix=%"/>
+</td>
+</tr>
+</table>
+
+<br/>
+
+<!-- PHASE 04 -->
+<table border="0" cellpadding="0" cellspacing="0" width="85%">
+<tr>
+<td width="8%" align="center"><b>04</b></td>
+<td width="3%" align="center">
+<img src="https://img.shields.io/badge/-%E2%94%82-fbbf24?style=flat-square&labelColor=fbbf24"/>
+</td>
+<td width="89%">
+<img src="https://img.shields.io/badge/%E2%9A%A1_ACTIVE-GCP_%7C_BigQuery_%7C_Vertex_AI-fbbf24?style=for-the-badge&labelColor=0d1117&logo=googlecloud&logoColor=4285F4"/>
+<br/>
+<sub>BigQuery ML · Vertex AI · Cloud Storage · Dataflow Pipelines · AI Platform Model Deployment</sub>
+<br/>
+<img src="https://img.shields.io/badge/Progress-40%25-fbbf24?style=flat-square&labelColor=0d1117"/>
+<img src="https://progress-bar.xyz/40/?scale=100&title=&width=300&color=fbbf24&suffix=%"/>
+</td>
+</tr>
+</table>
+
+<br/>
+
+<!-- PHASE 05 -->
+<table border="0" cellpadding="0" cellspacing="0" width="85%">
+<tr>
+<td width="8%" align="center"><b>05</b></td>
+<td width="3%" align="center">
+<img src="https://img.shields.io/badge/-%E2%94%82-8b949e?style=flat-square&labelColor=8b949e"/>
+</td>
+<td width="89%">
+<img src="https://img.shields.io/badge/%F0%9F%94%9C_PLANNED-MLOps_%26_Airflow_Pipelines-8b949e?style=for-the-badge&labelColor=0d1117&logo=apacheairflow&logoColor=white"/>
+<br/>
+<sub>MLflow · Apache Airflow DAGs · Kubeflow · CI/CD for ML · Model Monitoring in Production</sub>
+<br/>
+<img src="https://img.shields.io/badge/Progress-15%25-8b949e?style=flat-square&labelColor=0d1117"/>
+<img src="https://progress-bar.xyz/15/?scale=100&title=&width=300&color=8b949e&suffix=%"/>
+</td>
+</tr>
+</table>
+
+<br/>
+
+<!-- PHASE 06 -->
+<table border="0" cellpadding="0" cellspacing="0" width="85%">
+<tr>
+<td width="8%" align="center"><b>06</b></td>
+<td width="3%" align="center">
+<img src="https://img.shields.io/badge/-%E2%94%82-8b949e?style=flat-square&labelColor=8b949e"/>
+</td>
+<td width="89%">
+<img src="https://img.shields.io/badge/%F0%9F%94%9C_PLANNED-LLMOps_%26_Generative_AI-blueviolet?style=for-the-badge&labelColor=0d1117&logo=openai&logoColor=white"/>
+<br/>
+<sub>LangChain · RAG Pipelines · Prompt Engineering · Fine-tuning LLMs · Deploying AI APIs · HuggingFace</sub>
+<br/>
+<img src="https://img.shields.io/badge/Progress-5%25-8b949e?style=flat-square&labelColor=0d1117"/>
+<img src="https://progress-bar.xyz/5/?scale=100&title=&width=300&color=8b949e&suffix=%"/>
+</td>
+</tr>
+</table>
+
+<br/>
+
+<img src="https://img.shields.io/badge/🎯_Goal-Certified_GCP_Professional_Data_Engineer_by_2025-29B5E8?style=for-the-badge&labelColor=0d1117"/>
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:29B5E8,100:0d1117&height=3"/>
+
+---
+
+## 🎵 Now Playing While I Code
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:1DB954&height=3"/>
+
+<br/>
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&pause=2000&color=1DB954&center=true&vCenter=true&width=600&lines=Fuelled+by+data+%26+lo-fi+beats+%F0%9F%8E%A7;Every+great+model+needs+a+great+playlist...;Currently+vibing+to+chill+coding+music+%F0%9F%8E%B6" alt="Spotify Ticker"/>
+
+<br/><br/>
+
+<!-- 
+  ═══════════════════════════════════════════════════════
+  SPOTIFY LIVE WIDGET — SETUP INSTRUCTIONS:
+  
+  1. Go to: https://github.com/novatorem/novatorem
+  2. Deploy to Vercel & connect your Spotify account
+  3. Replace YOUR_VERCEL_APP_URL below with your deployed URL
+  4. Replace YOUR_SPOTIFY_PROFILE_URL with your Spotify profile link
+  ═══════════════════════════════════════════════════════
+-->
+
+[![Spotify](https://novatorem.YOUR_VERCEL_APP_URL.vercel.app/api/spotify)](https://open.spotify.com/user/YOUR_SPOTIFY_USERNAME)
+
+<br/>
+
+<!-- Fallback static badge until Spotify widget is configured -->
+<img src="https://img.shields.io/badge/Spotify-Lo--Fi_Coding_Playlist-1DB954?style=for-the-badge&logo=spotify&logoColor=white&labelColor=0d1117"/>
+&nbsp;
+<img src="https://img.shields.io/badge/Vibes-Chill_%26_Focused-1DB954?style=flat-square&logo=headphones&logoColor=white&labelColor=0d1117"/>
+
+<br/><br/>
+
+> *"Good music + clean data = great models"* 🎧
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1DB954,100:0d1117&height=3"/>
+
+---
+
 ## My Data Science Workflow
 
 <div align="center">

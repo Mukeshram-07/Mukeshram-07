@@ -49,63 +49,63 @@
 <table>
 <tr>
 <td width="50%" align="center">
-<h3>💻 Programming Languages</h3>
 
-<img src="https://skillicons.dev/icons?i=python,r,cpp,js,mysql" />
-<br/><br/>
+### 💻 Programming Languages
+
+<img src="https://skillicons.dev/icons?i=python,r,cpp,js" height="50" />
+<br/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="50" height="50" title="SQL"/>
 
 </td>
 
 <td width="50%" align="center">
-<h3>📊 Data Science & ML</h3>
 
-<img src="https://skillicons.dev/icons?i=sklearn,pytorch,tensorflow" />
+### 📊 Data Science & ML
+
+<img src="https://skillicons.dev/icons?i=sklearn,pytorch,tensorflow" height="50" />
 <br/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original-wordmark.svg" width="50" height="50" title="Pandas"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" width="50" height="50" title="Pandas"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" width="50" height="50" title="NumPy"/>
-<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/xgboost.svg" width="50" height="50" title="XGBoost" style="background:#EC6C00;border-radius:10px;padding:5px"/>
-<img src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/snowflake.svg" width="50" height="50" title="statsmodels"/>
-<br/><br/>
 
 </td>
 </tr>
 <tr>
 <td width="50%" align="center">
-<h3>📈 Visualization</h3>
+
+### 📈 Visualization
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-original.svg" width="50" height="50" title="Matplotlib"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/plotly/plotly-original.svg" width="50" height="50" title="Plotly"/>
 <img src="https://raw.githubusercontent.com/microsoft/PowerBI-Icons/main/SVG/Power-BI.svg" width="50" height="50" title="Power BI"/>
-<img src="https://seaborn.pydata.org/_images/logo-tall-lightbg.svg" width="50" height="50" title="Seaborn"/>
-<br/><br/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/anaconda/anaconda-original.svg" width="50" height="50" title="Seaborn"/>
 
 </td>
 
 <td width="50%" align="center">
-<h3>🗄️ Databases</h3>
 
-<img src="https://skillicons.dev/icons?i=mysql,mongodb" />
-<br/><br/>
+### 🗄️ Databases
+
+<img src="https://skillicons.dev/icons?i=mysql,mongodb" height="50" />
 
 </td>
 </tr>
 <tr>
 <td width="50%" align="center">
-<h3>⚙️ Deployment & Tools</h3>
 
-<img src="https://skillicons.dev/icons?i=fastapi,git,github" />
+### ⚙️ Deployment & Tools
+
+<img src="https://skillicons.dev/icons?i=fastapi,git,github" height="50" />
 <br/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/streamlit/streamlit-original.svg" width="50" height="50" title="Streamlit"/>
-<br/><br/>
 
 </td>
 
 <td width="50%" align="center">
-<h3>☁️ Cloud</h3>
 
-<img src="https://skillicons.dev/icons?i=gcp" />
+### ☁️ Cloud
+
+<img src="https://skillicons.dev/icons?i=gcp" height="50" />
 <img src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/snowflake.svg" width="50" height="50" title="Snowflake"/>
-<br/><br/>
 
 </td>
 </tr>

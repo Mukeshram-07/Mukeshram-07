@@ -1,14 +1,10 @@
 <div align="center">
 
-<!-- ═══════════════════════════════════════════════════════ -->
-<!--              ANIMATED PROGRAMMER BANNER                -->
-<!-- ═══════════════════════════════════════════════════════ -->
-
 <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=36&pause=1000&color=29B5E8&center=true&vCenter=true&width=800&height=70&lines=Hi+There!+I'm+Mukeshram+S+%F0%9F%91%8B;Data+Scientist+%7C+ML+Engineer;Insight+Architect+%7C+AI+Builder" alt="Header Typing"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=36&pause=1000&color=29B5E8&center=true&vCenter=true&width=800&height=70&lines=Hi+There!+I'm+Mukeshram+S+%F0%9F%91%8B;Data+Scientist+%7C+ML+Engineer;Insight+Architect+%7C+AI+Builder" alt="Header"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=18&pause=1000&color=ffffff&center=true&vCenter=true&width=700&height=40&lines=Turning+raw+data+into+real+decisions;Building+ML+models+that+actually+work;From+SQL+queries+to+Snowflake+pipelines;Open+to+exciting+Data+Science+roles" alt="Subtitle Ticker"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=18&pause=1000&color=ffffff&center=true&vCenter=true&width=700&height=40&lines=Turning+raw+data+into+real+decisions;Building+ML+models+that+actually+work;From+SQL+queries+to+Snowflake+pipelines;Open+to+exciting+Data+Science+roles" alt="Subtitle"/>
 
 <br/>
 
@@ -29,12 +25,6 @@
 ## About Me
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:29B5E8&height=3"/>
-
-<br/>
-
-<div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&pause=1200&color=29B5E8&center=true&vCenter=true&width=800&lines=Hey+there!+I'm+Mukeshram+S;Data+Scientist+%26+ML+Engineer;I+turn+raw+data+into+real+decisions;Welcome+to+my+GitHub+Universe!" alt="About Me Typing" />
-</div>
 
 <br/>
 
@@ -198,81 +188,23 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=800&color=29B5E8&center=true&vCenter=true&width=700&lines=Raw+Data+%E2%9E%9C+Clean+%26+Wrangle+%E2%9E%9C+EDA;EDA+%E2%9E%9C+Model+%26+Evaluate;Model+%E2%9E%9C+Deploy+%26+Monitor;Deploy+%E2%9E%9C+Insights+%26+Decisions!" alt="Workflow" />
-
-<br/><br/>
-
-<!-- WORKFLOW DIAGRAM — Professional flat badge style with clean directional arrows -->
-
-<table border="0" cellspacing="0" cellpadding="0" align="center">
-  <tr>
-    <!-- Step 01 -->
-    <td align="center">
-      <img src="https://img.shields.io/badge/01%20%E2%94%82%20RAW%20DATA-Ingest%20%26%20Collect-29B5E8?style=for-the-badge&labelColor=0d1117"/>
-    </td>
-    <!-- Arrow right -->
-    <td align="center" style="padding: 0 6px;">
-      <img src="https://img.shields.io/badge/%20-%20%E2%9E%9C-%230d1117?style=for-the-badge&labelColor=0d1117&color=29B5E8"/>
-    </td>
-    <!-- Step 02 -->
-    <td align="center">
-      <img src="https://img.shields.io/badge/02%20%E2%94%82%20CLEAN%20%26%20WRANGLE-Transform%20%26%20Validate-7B2FBE?style=for-the-badge&labelColor=0d1117"/>
-    </td>
-    <!-- Arrow right -->
-    <td align="center" style="padding: 0 6px;">
-      <img src="https://img.shields.io/badge/%20-%20%E2%9E%9C-%230d1117?style=for-the-badge&labelColor=0d1117&color=7B2FBE"/>
-    </td>
-    <!-- Step 03 -->
-    <td align="center">
-      <img src="https://img.shields.io/badge/03%20%E2%94%82%20EDA%20%26%20VISUALIZE-Explore%20%26%20Discover-1D9E75?style=for-the-badge&labelColor=0d1117"/>
-    </td>
-  </tr>
-  <tr>
-    <td colspan="5" align="center" style="padding: 4px 0;">
-      <img src="https://img.shields.io/badge/%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%E2%86%93-0d1117?style=flat-square&labelColor=0d1117"/>
-    </td>
-  </tr>
-  <tr>
-    <!-- Step 06 -->
-    <td align="center">
-      <img src="https://img.shields.io/badge/06%20%E2%94%82%20INSIGHTS-Communicate%20%26%20Decide-29B5E8?style=for-the-badge&labelColor=0d1117"/>
-    </td>
-    <!-- Arrow left -->
-    <td align="center" style="padding: 0 6px;">
-      <img src="https://img.shields.io/badge/%20-%20%E2%9C%97-%230d1117?style=for-the-badge&labelColor=0d1117&color=185FA5"/>
-    </td>
-    <!-- Step 05 -->
-    <td align="center">
-      <img src="https://img.shields.io/badge/05%20%E2%94%82%20DEPLOY%20%26%20MONITOR-Serve%20%26%20Retrain-D85A30?style=for-the-badge&labelColor=0d1117"/>
-    </td>
-    <!-- Arrow left -->
-    <td align="center" style="padding: 0 6px;">
-      <img src="https://img.shields.io/badge/%20-%20%E2%9C%97-%230d1117?style=for-the-badge&labelColor=0d1117&color=7B2FBE"/>
-    </td>
-    <!-- Step 04 -->
-    <td align="center">
-      <img src="https://img.shields.io/badge/04%20%E2%94%82%20MODEL%20%26%20EVALUATE-Train%20%26%20Tune-7B2FBE?style=for-the-badge&labelColor=0d1117"/>
-    </td>
-  </tr>
-</table>
-
 <br/>
 
-<!-- Step labels row -->
-<table border="0" cellspacing="0" cellpadding="4" align="center">
+<table border="0" cellpadding="8">
 <tr>
-<td align="center"><img src="https://img.shields.io/badge/Ingest-Sources%20%26%20APIs-0d1117?style=flat-square&labelColor=29B5E8&color=0d1117"/></td>
-<td width="20"></td>
-<td align="center"><img src="https://img.shields.io/badge/Process-Impute%20%26%20Encode-0d1117?style=flat-square&labelColor=7B2FBE&color=0d1117"/></td>
-<td width="20"></td>
-<td align="center"><img src="https://img.shields.io/badge/Explore-Charts%20%26%20Stats-0d1117?style=flat-square&labelColor=1D9E75&color=0d1117"/></td>
+<td align="center"><img src="https://img.shields.io/badge/01-Raw%20Data-29B5E8?style=for-the-badge&labelColor=0d1117"/></td>
+<td align="center"><b>&#8594;</b></td>
+<td align="center"><img src="https://img.shields.io/badge/02-Clean%20%26%20Wrangle-blueviolet?style=for-the-badge&labelColor=0d1117"/></td>
+<td align="center"><b>&#8594;</b></td>
+<td align="center"><img src="https://img.shields.io/badge/03-EDA%20%26%20Visualize-00C853?style=for-the-badge&labelColor=0d1117"/></td>
 </tr>
+<tr><td colspan="5" align="center"><b>&#8595;</b></td></tr>
 <tr>
-<td align="center"><img src="https://img.shields.io/badge/Report-Dashboards%20%26%20Docs-0d1117?style=flat-square&labelColor=29B5E8&color=0d1117"/></td>
-<td width="20"></td>
-<td align="center"><img src="https://img.shields.io/badge/Ship-APIs%20%26%20Pipelines-0d1117?style=flat-square&labelColor=D85A30&color=0d1117"/></td>
-<td width="20"></td>
-<td align="center"><img src="https://img.shields.io/badge/Build-XGBoost%20%7C%20PyTorch-0d1117?style=flat-square&labelColor=7B2FBE&color=0d1117"/></td>
+<td align="center"><img src="https://img.shields.io/badge/06-Insights-29B5E8?style=for-the-badge&labelColor=0d1117"/></td>
+<td align="center"><b>&#8592;</b></td>
+<td align="center"><img src="https://img.shields.io/badge/05-Deploy%20%26%20Monitor-FF6B35?style=for-the-badge&labelColor=0d1117"/></td>
+<td align="center"><b>&#8592;</b></td>
+<td align="center"><img src="https://img.shields.io/badge/04-Model%20%26%20Evaluate-blueviolet?style=for-the-badge&labelColor=0d1117"/></td>
 </tr>
 </table>
 

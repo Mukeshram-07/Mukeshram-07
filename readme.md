@@ -5,16 +5,16 @@
 
 <!-- Typing Animation -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=29B5E8&center=true&vCenter=true&width=750&lines=Turning+raw+data+into+real+decisions+%F0%9F%93%8A;Building+ML+models+that+actually+work+%F0%9F%A4%96;From+SQL+queries+to+Snowflake+pipelines+%E2%9D%84%EF%B8%8F;Scikit-learn+%E2%80%A2+PyTorch+%E2%80%A2+TensorFlow+%E2%80%A2+FastAPI;Open+to+exciting+Data+Science+roles+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=29B5E8&center=true&vCenter=true&width=750&lines=Turning+raw+data+into+real+decisions;Building+ML+models+that+actually+work;From+SQL+queries+to+Snowflake+pipelines;Scikit-learn+%E2%80%A2+PyTorch+%E2%80%A2+TensorFlow+%E2%80%A2+FastAPI;Open+to+exciting+Data+Science+roles" alt="Typing SVG" />
 </a>
 
 <br/>
 
 <!-- Profile Badges Row -->
 <p>
-  <img src="https://img.shields.io/badge/🌍_Based_in-India-FF9933?style=for-the-badge&labelColor=138808" />
-  <img src="https://img.shields.io/badge/💼_Open_to-Data_Science_Roles-29B5E8?style=for-the-badge&labelColor=0d1117" />
-  <img src="https://img.shields.io/badge/🤝_Loves-Collaborating_on_ML-blueviolet?style=for-the-badge&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/Based_in-India-FF9933?style=for-the-badge&labelColor=138808" />
+  <img src="https://img.shields.io/badge/Open_to-Data_Science_Roles-29B5E8?style=for-the-badge&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/Loves-Collaborating_on_ML-blueviolet?style=for-the-badge&labelColor=0d1117" />
 </p>
 <p>
   <img src="https://komarev.com/ghpvc/?username=Mukeshram-07&style=for-the-badge&color=29B5E8&label=PROFILE+VIEWS" />
@@ -25,7 +25,7 @@
 
 ---
 
-## 🧠 About Me
+## About Me
 
 <img align="right" width="320" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"/>
 
@@ -33,7 +33,7 @@
 class Mukeshram:
     name       = "Mukeshram S"
     role       = "Data Scientist & ML Engineer"
-    location   = "India 🇮🇳"
+    location   = "India"
     portfolio  = "mukeshram.pages.dev"
 
     languages  = ["Python", "SQL", "R", "C++", "JavaScript"]
@@ -44,16 +44,16 @@ class Mukeshram:
     cloud      = ["GCP", "Snowflake"]
     deployment = ["FastAPI", "Streamlit", "Git"]
 
-    currently  = "Building intelligent data pipelines 🔧"
-    goal       = "Make every dataset tell its story 📖"
-    fun_fact   = "I debug with coffee ☕ and intuition 🎯"
+    currently  = "Building intelligent data pipelines"
+    goal       = "Make every dataset tell its story"
+    fun_fact   = "I debug with coffee and intuition"
 ```
 
 <br clear="right"/>
 
 ---
 
-## 🌐 Connect With Me
+## Connect With Me
 
 <div align="center">
 
@@ -73,63 +73,103 @@ class Mukeshram:
 
 ---
 
-## 🛠️ Tech Arsenal
+## Tech Arsenal
 
 <div align="center">
 
-### 💻 Programming Languages
-<img src="https://skillicons.dev/icons?i=python,r,cpp,js,mysql" height="60"/>
+### Programming Languages
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+&nbsp;
+<img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white"/>
+&nbsp;
+<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+&nbsp;
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+&nbsp;
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
 
 <br/><br/>
 
-### 📊 Data Science & Machine Learning
-<img src="https://skillicons.dev/icons?i=sklearn,pytorch,tensorflow" height="60"/>
-<br/><br/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" width="55" height="55" title="Pandas"/>
+### Data Science & Machine Learning
+
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
 &nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" width="55" height="55" title="NumPy"/>
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
 &nbsp;
-<img src="https://img.shields.io/badge/XGBoost-EC6C00?style=for-the-badge&logo=python&logoColor=white" height="40"/>
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
 &nbsp;
-<img src="https://img.shields.io/badge/LightGBM-026e00?style=for-the-badge&logo=python&logoColor=white" height="40"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
 &nbsp;
-<img src="https://img.shields.io/badge/statsmodels-3776AB?style=for-the-badge&logo=python&logoColor=white" height="40"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
 
 <br/><br/>
 
-### 📈 Data Visualization
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-original.svg" width="55" height="55" title="Matplotlib"/>
+<img src="https://img.shields.io/badge/XGBoost-EC6C00?style=for-the-badge&logo=python&logoColor=white"/>
 &nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/plotly/plotly-original.svg" width="55" height="55" title="Plotly"/>
+<img src="https://img.shields.io/badge/LightGBM-026e00?style=for-the-badge&logo=python&logoColor=white"/>
 &nbsp;
-<img src="https://raw.githubusercontent.com/microsoft/PowerBI-Icons/main/SVG/Power-BI.svg" width="55" height="55" title="Power BI"/>
+<img src="https://img.shields.io/badge/statsmodels-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 &nbsp;
-<img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge&logo=python&logoColor=white" height="40"/>
+<img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
 
 <br/><br/>
 
-### 🗄️ Databases
-<img src="https://skillicons.dev/icons?i=mysql,mongodb" height="60"/>
+### Data Visualization
 
-<br/><br/>
-
-### ⚙️ Tools & Deployment
-<img src="https://skillicons.dev/icons?i=fastapi,git,github,vscode" height="60"/>
+<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white"/>
 &nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/streamlit/streamlit-original.svg" width="55" height="55" title="Streamlit"/>
+<img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white"/>
+&nbsp;
+<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+&nbsp;
+<img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge&logo=python&logoColor=white"/>
+&nbsp;
+<img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white"/>
 
 <br/><br/>
 
-### ☁️ Cloud & Data Warehouse
-<img src="https://skillicons.dev/icons?i=gcp" height="60" title="Google Cloud Platform"/>
-&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white" height="40"/>
+### Databases
+
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+&nbsp;
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+&nbsp;
+<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
+
+<br/><br/>
+
+### Tools & Deployment
+
+<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
+&nbsp;
+<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
+&nbsp;
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+&nbsp;
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+&nbsp;
+<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
+&nbsp;
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+&nbsp;
+<img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
+
+<br/><br/>
+
+### Cloud & Data Warehouse
+
+<img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white"/>
+&nbsp;
+<img src="https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white"/>
+&nbsp;
+<img src="https://img.shields.io/badge/BigQuery-669DF6?style=for-the-badge&logo=googlebigquery&logoColor=white"/>
 
 </div>
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <div align="center">
 
@@ -148,7 +188,7 @@ class Mukeshram:
 
 ---
 
-## 🏆 GitHub Trophies
+## GitHub Trophies
 
 <div align="center">
 <img src="https://github-profile-trophy.vercel.app/?username=Mukeshram-07&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=7"/>
@@ -156,32 +196,32 @@ class Mukeshram:
 
 ---
 
-## 📌 Quick Facts
+## Quick Facts
 
 <div align="center">
 
 | | |
 |:---|:---|
-| 🔭 **Currently** | Building end-to-end ML pipelines with FastAPI & Streamlit |
-| 🌱 **Learning** | Deep Learning architectures & MLOps best practices |
-| 👯 **Looking to** | Collaborate on Data Science & AI projects |
-| 💬 **Ask me about** | Python, ML models, data visualization, SQL |
-| 🌐 **Portfolio** | [mukeshram.pages.dev](https://mukeshram.pages.dev/) |
-| ⚡ **Fun fact** | I once found a bug just by staring at the data long enough |
+| **Currently** | Building end-to-end ML pipelines with FastAPI & Streamlit |
+| **Learning** | Deep Learning architectures & MLOps best practices |
+| **Looking to** | Collaborate on Data Science & AI projects |
+| **Ask me about** | Python, ML models, data visualization, SQL |
+| **Portfolio** | [mukeshram.pages.dev](https://mukeshram.pages.dev/) |
+| **Fun fact** | I once found a bug just by staring at the data long enough |
 
 </div>
 
 ---
 
-## 🔄 My Data Science Workflow
+## My Data Science Workflow
 
 <div align="center">
 
 ```
- 📥 Raw Data  ──►  🧹 Clean & Wrangle  ──►  🔍 EDA & Visualize
-                                                      │
-                                                      ▼
- 📊 Insights  ◄──  🚀 Deploy & Monitor  ◄──  🤖 Model & Evaluate
+ Raw Data  ──►  Clean & Wrangle  ──►  EDA & Visualize
+                                              |
+                                              v
+ Insights  ◄──  Deploy & Monitor  ◄──  Model & Evaluate
 ```
 
 </div>
@@ -205,8 +245,8 @@ class Mukeshram:
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:29B5E8,100:0d1117&height=120&section=footer&animation=fadeIn"/>
 
-**✨ "Data is the new oil — I'm the refinery." 🛢️→💡 ✨**
+**"Data is the new oil — I'm the refinery."**
 
-*⭐ If my work inspired you, drop a star — it means the world! ⭐*
+*If my work inspired you, drop a star — it means the world!*
 
 </div>

@@ -124,7 +124,8 @@
 ### ☁️ Cloud
 
 <br/>
-<img src="https://skillicons.dev/icons?i=gcp" height="65" />&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/snowflake/snowflake-plain.svg" width="65" height="65" title="Snowflake"/>
+<img src="https://skillicons.dev/icons?i=gcp" height="65" />&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white" height="65" title="Snowflake"/>
 <br/><br/>
 
 </td>

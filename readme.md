@@ -194,46 +194,6 @@
 
 ---
 
-## 🎵 Now Playing While I Code
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:1DB954&height=3"/>
-
-<br/>
-
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&pause=2000&color=1DB954&center=true&vCenter=true&width=600&lines=Fuelled+by+data+%26+lo-fi+beats+%F0%9F%8E%A7;Every+great+model+needs+a+great+playlist...;Currently+vibing+to+chill+coding+music+%F0%9F%8E%B6" alt="Spotify Ticker"/>
-
-<br/><br/>
-
-<!--
-  ══════════════════════════════════════════════════════
-  SPOTIFY LIVE WIDGET SETUP (one-time, 5 minutes):
-  1. Go to https://github.com/kittinanx/spotify-github-profile
-  2. Click "Login with Spotify" on their demo site
-  3. Copy the generated image URL
-  4. Replace the src below with YOUR generated URL
-  ══════════════════════════════════════════════════════
--->
-
-[![Spotify](https://spotify-github-profile.kittinanx.com/api/view?uid=YOUR_SPOTIFY_USER_ID&cover_image=true&theme=natemoo-re&show_offline=false&background_color=0d1117&interchange=false&bar_color=1DB954&bar_color_cover=true)](https://spotify-github-profile.kittinanx.com/api/view?uid=YOUR_SPOTIFY_USER_ID&redirect=true)
-
-<br/>
-
-<img src="https://img.shields.io/badge/Spotify-Lo--Fi_Coding_Playlist-1DB954?style=for-the-badge&logo=spotify&logoColor=white&labelColor=0d1117"/>
-&nbsp;
-<img src="https://img.shields.io/badge/Vibes-Chill_%26_Focused-1DB954?style=flat-square&logo=headphones&logoColor=white&labelColor=0d1117"/>
-
-<br/><br/>
-
-> *"Good music + clean data = great models"* 🎧
-
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1DB954,100:0d1117&height=3"/>
-
----
-
 ## My Data Science Workflow
 
 <div align="center">

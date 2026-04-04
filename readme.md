@@ -79,61 +79,57 @@ class Mukeshram:
 
 ### Programming Languages
 
-<img src="https://skillicons.dev/icons?i=python,r,cpp,js,mysql&theme=dark&perline=5" height="65"/>
+<img src="https://skillicons.dev/icons?i=python,r,cpp,js,mysql&theme=dark" height="80"/>
 
 <br/><br/>
 
 ### Data Science & Machine Learning
 
-<img src="https://skillicons.dev/icons?i=sklearn,pytorch,tensorflow&theme=dark&perline=6" height="65"/>
+<img src="https://skillicons.dev/icons?i=sklearn,pytorch,tensorflow,pandas,numpy&theme=dark" height="80"/>
 
 <br/><br/>
 
-<img src="https://skillicons.dev/icons?i=pandas,numpy&theme=dark&perline=6" height="65"/>
-&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/XGBoost-EC6C00?style=for-the-badge&logo=python&logoColor=white&labelColor=EC6C00" height="65" style="border-radius:12px"/>
+<img src="https://skillicons.dev/icons?i=huggingface&theme=dark" height="80"/>
 &nbsp;
-<img src="https://img.shields.io/badge/LightGBM-026e00?style=for-the-badge&logo=python&logoColor=white" height="65" style="border-radius:12px"/>
+<img src="https://go-skill-icons.vercel.app/api/icons?i=xgboost&theme=dark" height="80"/>
 &nbsp;
-<img src="https://img.shields.io/badge/statsmodels-3776AB?style=for-the-badge&logo=python&logoColor=white" height="65" style="border-radius:12px"/>
+<img src="https://go-skill-icons.vercel.app/api/icons?i=lightgbm&theme=dark" height="80"/>
 &nbsp;
-<img src="https://skillicons.dev/icons?i=huggingface&theme=dark" height="65"/>
+<img src="https://go-skill-icons.vercel.app/api/icons?i=scipy&theme=dark" height="80"/>
 
 <br/><br/>
 
 ### Data Visualization
 
-<img src="https://skillicons.dev/icons?i=matplotlib,plotly&theme=dark" height="65"/>
-&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" height="65"/>
+<img src="https://skillicons.dev/icons?i=matplotlib,plotly&theme=dark" height="80"/>
 &nbsp;
-<img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge&logo=python&logoColor=white" height="65"/>
+<img src="https://go-skill-icons.vercel.app/api/icons?i=powerbi&theme=dark" height="80"/>
 &nbsp;
-<img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" height="65"/>
+<img src="https://go-skill-icons.vercel.app/api/icons?i=tableau&theme=dark" height="80"/>
+&nbsp;
+<img src="https://go-skill-icons.vercel.app/api/icons?i=seaborn&theme=dark" height="80"/>
 
 <br/><br/>
 
 ### Databases
 
-<img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres&theme=dark&perline=5" height="65"/>
+<img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres&theme=dark" height="80"/>
 
 <br/><br/>
 
 ### Tools & Deployment
 
-<img src="https://skillicons.dev/icons?i=fastapi,git,github,vscode,docker,jupyter&theme=dark&perline=6" height="65"/>
-&nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=streamlit&theme=dark" height="65"/>
+<img src="https://skillicons.dev/icons?i=fastapi,streamlit,git,github,vscode,docker,jupyter&theme=dark" height="80"/>
 
 <br/><br/>
 
 ### Cloud & Data Warehouse
 
-<img src="https://skillicons.dev/icons?i=gcp&theme=dark" height="65"/>
-&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white" height="65"/>
+<img src="https://skillicons.dev/icons?i=gcp&theme=dark" height="80"/>
 &nbsp;
-<img src="https://img.shields.io/badge/BigQuery-669DF6?style=for-the-badge&logo=googlebigquery&logoColor=white" height="65"/>
+<img src="https://go-skill-icons.vercel.app/api/icons?i=snowflake&theme=dark" height="80"/>
+&nbsp;
+<img src="https://go-skill-icons.vercel.app/api/icons?i=bigquery&theme=dark" height="80"/>
 
 </div>
 

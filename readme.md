@@ -54,11 +54,7 @@
 ### 💻 Programming Languages
 
 <br/>
-<img src="https://skillicons.dev/icons?i=python" width="65" height="65" title="Python"/>&nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=r" width="65" height="65" title="R"/>&nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=cpp" width="65" height="65" title="C++"/>&nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=js" width="65" height="65" title="JavaScript"/>&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="65" height="65" title="SQL"/>
+<img src="https://skillicons.dev/icons?i=python,r,cpp,js,mysql" height="65" />
 <br/><br/>
 
 </td>
@@ -128,8 +124,7 @@
 ### ☁️ Cloud
 
 <br/>
-<img src="https://skillicons.dev/icons?i=gcp" width="65" height="65" title="Google Cloud"/>&nbsp;&nbsp;
-<img src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/snowflake.svg" width="65" height="65" title="Snowflake"/>
+<img src="https://skillicons.dev/icons?i=gcp" height="65" />&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/snowflake/snowflake-plain.svg" width="65" height="65" title="Snowflake"/>
 <br/><br/>
 
 </td>

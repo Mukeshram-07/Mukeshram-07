@@ -46,66 +46,91 @@
 ## 🛠️ Skills
 
 <p align="center">
-<table>
+<table width="100%">
 <tr>
-<td width="50%" align="center">
+<td width="50%" align="center" style="padding: 30px;">
+<br/>
 
 ### 💻 Programming Languages
 
-<img src="https://skillicons.dev/icons?i=python,r,cpp,js" height="50" />
 <br/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="50" height="50" title="SQL"/>
+<img src="https://skillicons.dev/icons?i=python" width="65" height="65" title="Python"/>&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=r" width="65" height="65" title="R"/>&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=cpp" width="65" height="65" title="C++"/>&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=js" width="65" height="65" title="JavaScript"/>&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="65" height="65" title="SQL"/>
+<br/><br/>
 
 </td>
 
-<td width="50%" align="center">
+<td width="50%" align="center" style="padding: 30px;">
+<br/>
 
 ### 📊 Data Science & ML
 
-<img src="https://skillicons.dev/icons?i=sklearn,pytorch,tensorflow" height="50" />
 <br/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" width="50" height="50" title="Pandas"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" width="50" height="50" title="NumPy"/>
+<img src="https://skillicons.dev/icons?i=sklearn" width="65" height="65" title="Scikit-learn"/>&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=pytorch" width="65" height="65" title="PyTorch"/>&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=tensorflow" width="65" height="65" title="TensorFlow"/>
+<br/><br/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" width="65" height="65" title="Pandas"/>&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" width="65" height="65" title="NumPy"/>
+<br/><br/>
 
 </td>
 </tr>
 <tr>
-<td width="50%" align="center">
+<td width="50%" align="center" style="padding: 30px;">
+<br/>
 
 ### 📈 Visualization
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-original.svg" width="50" height="50" title="Matplotlib"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/plotly/plotly-original.svg" width="50" height="50" title="Plotly"/>
-<img src="https://raw.githubusercontent.com/microsoft/PowerBI-Icons/main/SVG/Power-BI.svg" width="50" height="50" title="Power BI"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/anaconda/anaconda-original.svg" width="50" height="50" title="Seaborn"/>
+<br/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-original.svg" width="65" height="65" title="Matplotlib"/>&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/plotly/plotly-original.svg" width="65" height="65" title="Plotly"/>&nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/microsoft/PowerBI-Icons/main/SVG/Power-BI.svg" width="65" height="65" title="Power BI"/>&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/anaconda/anaconda-original.svg" width="65" height="65" title="Seaborn"/>
+<br/><br/>
 
 </td>
 
-<td width="50%" align="center">
+<td width="50%" align="center" style="padding: 30px;">
+<br/>
 
 ### 🗄️ Databases
 
-<img src="https://skillicons.dev/icons?i=mysql,mongodb" height="50" />
+<br/>
+<img src="https://skillicons.dev/icons?i=mysql" width="65" height="65" title="MySQL"/>&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=mongodb" width="65" height="65" title="MongoDB"/>
+<br/><br/>
 
 </td>
 </tr>
 <tr>
-<td width="50%" align="center">
+<td width="50%" align="center" style="padding: 30px;">
+<br/>
 
 ### ⚙️ Deployment & Tools
 
-<img src="https://skillicons.dev/icons?i=fastapi,git,github" height="50" />
 <br/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/streamlit/streamlit-original.svg" width="50" height="50" title="Streamlit"/>
+<img src="https://skillicons.dev/icons?i=fastapi" width="65" height="65" title="FastAPI"/>&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=git" width="65" height="65" title="Git"/>&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=github" width="65" height="65" title="GitHub"/>
+<br/><br/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/streamlit/streamlit-original.svg" width="65" height="65" title="Streamlit"/>
+<br/><br/>
 
 </td>
 
-<td width="50%" align="center">
+<td width="50%" align="center" style="padding: 30px;">
+<br/>
 
 ### ☁️ Cloud
 
-<img src="https://skillicons.dev/icons?i=gcp" height="50" />
-<img src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/snowflake.svg" width="50" height="50" title="Snowflake"/>
+<br/>
+<img src="https://skillicons.dev/icons?i=gcp" width="65" height="65" title="Google Cloud"/>&nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/snowflake.svg" width="65" height="65" title="Snowflake"/>
+<br/><br/>
 
 </td>
 </tr>

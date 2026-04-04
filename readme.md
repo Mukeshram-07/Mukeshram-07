@@ -58,12 +58,15 @@
 <td width="50%" align="center">
 <h3>📊 Data Science & ML</h3>
 
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![XGBoost](https://img.shields.io/badge/XGBoost-EC6C00?style=for-the-badge&logoColor=white)
-![LightGBM](https://img.shields.io/badge/LightGBM-026e00?style=for-the-badge&logoColor=white)
-![statsmodels](https://img.shields.io/badge/statsmodels-3776AB?style=for-the-badge&logoColor=white)
+<img src="https://skillicons.dev/icons?i=sklearn,pytorch,tensorflow" />
+<br/>
+
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![XGBoost](https://img.shields.io/badge/XGBoost-EC6C00?style=flat-square&logoColor=white)
+![LightGBM](https://img.shields.io/badge/LightGBM-026e00?style=flat-square&logoColor=white)
+![statsmodels](https://img.shields.io/badge/statsmodels-3776AB?style=flat-square&logoColor=white)
+<br/><br/>
 
 </td>
 </tr>
@@ -71,10 +74,12 @@
 <td width="50%" align="center">
 <h3>📈 Visualization</h3>
 
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logoColor=white)
-![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge&logoColor=white)
-![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+<img src="https://skillicons.dev/icons?i=matplotlib,grafana" />
+<br/>
+
+![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=flat-square&logoColor=white)
+![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
 <br/><br/>
 
 </td>
@@ -91,10 +96,10 @@
 <td width="50%" align="center">
 <h3>⚙️ Deployment & Tools</h3>
 
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+<img src="https://skillicons.dev/icons?i=fastapi,git,github,vscode,postman" />
+<br/>
 
-<img src="https://skillicons.dev/icons?i=git,github" />
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
 <br/><br/>
 
 </td>
@@ -102,8 +107,10 @@
 <td width="50%" align="center">
 <h3>☁️ Cloud</h3>
 
-![GCP](https://img.shields.io/badge/GCP_Basics-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
-![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white)
+<img src="https://skillicons.dev/icons?i=gcp" />
+<br/>
+
+![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=flat-square&logo=snowflake&logoColor=white)
 <br/><br/>
 
 </td>

@@ -143,15 +143,6 @@
 
 </div>
 
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Mukeshram-07&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8" alt="GitHub Trophies"/>
-
-</div>
 
 ---
 
@@ -175,11 +166,6 @@
 ### Profile Views
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Mukeshram-07&color=blue)
-### 🗺️ Contribution Map
-
-<img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=Mukeshram-07&theme=tokyo-night&bg_color=0d1117&color=29B5E8&line=29B5E8&point=ffffff&area=true&hide_border=true" alt="Contribution Graph"/>
-
-</div>
 
 ---
 

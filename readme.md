@@ -30,7 +30,7 @@
 &nbsp;
 <a href="https://github.com/Mukeshram-07"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 &nbsp;
-<a href="https://mukeshram.pages.dev/"><img src="https://img.shields.io/badge/Portfolio-29B5E8?style=for-the-badge&logo=google-chrome&logoColor=white"/></a>
+<a href="https://mukeshrams.in/"><img src="https://img.shields.io/badge/Portfolio-29B5E8?style=for-the-badge&logo=google-chrome&logoColor=white"/></a>
 
 </div>
 
